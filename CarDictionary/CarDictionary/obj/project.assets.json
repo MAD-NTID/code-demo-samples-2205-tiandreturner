@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\tjtics\\.nuget\\packages\\": {},
+    "C:\\Users\\bptnbs\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tjtics\\Source\\Repos\\code-demo-samples-2205-tiandreturner\\CarDictionary\\CarDictionary\\CarDictionary.csproj",
+      "projectUniqueName": "C:\\Users\\bptnbs\\Source\\Repos\\code-demo-samples-2205-tiandreturner\\CarDictionary\\CarDictionary\\CarDictionary.csproj",
       "projectName": "CarDictionary",
-      "projectPath": "C:\\Users\\tjtics\\Source\\Repos\\code-demo-samples-2205-tiandreturner\\CarDictionary\\CarDictionary\\CarDictionary.csproj",
-      "packagesPath": "C:\\Users\\tjtics\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tjtics\\Source\\Repos\\code-demo-samples-2205-tiandreturner\\CarDictionary\\CarDictionary\\obj\\",
+      "projectPath": "C:\\Users\\bptnbs\\Source\\Repos\\code-demo-samples-2205-tiandreturner\\CarDictionary\\CarDictionary\\CarDictionary.csproj",
+      "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bptnbs\\Source\\Repos\\code-demo-samples-2205-tiandreturner\\CarDictionary\\CarDictionary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\tjtics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bptnbs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
