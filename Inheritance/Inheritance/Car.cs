@@ -15,7 +15,12 @@ namespace Inheritance
 
         public override string ToString()
         {
-            return base.ToString() + String.Format($"Trunk Capacity: {TrunkCapacity}");
+            return base.ToString() + String.Format($"Trunk Capacity: {TrunkCapacity}\n");
+        }
+
+        public override void Ignition()
+        {
+            Console.WriteLine("Engine running");
         }
     }
 }

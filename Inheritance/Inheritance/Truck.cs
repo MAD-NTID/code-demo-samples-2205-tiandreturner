@@ -15,7 +15,14 @@ namespace Inheritance
 
         public override string ToString()
         {
-            return base.ToString() + String.Format($"Tow Capacity: {TowingCapacity}");
+            return base.ToString() + String.Format($"Tow Capacity: {TowingCapacity}\n");
+        }
+
+        public override void Ignition()
+        {
+            Console.WriteLine("Glow plug warming up....");
+            System.Threading.Thread.Sleep(4000);
+            Console.WriteLine("Engine running");
         }
     }
 }

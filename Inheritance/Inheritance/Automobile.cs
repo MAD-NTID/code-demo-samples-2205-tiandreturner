@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Inheritance
 {
-    class Automobile
+    abstract class Automobile
     {
         public int Year { get; set; }
         public string Make { get; set; }
@@ -21,8 +21,10 @@ namespace Inheritance
 
         public override string ToString()
         {
-            return String.Format($"Year: {Year.ToString()}\nMake: {Make}\n" +
+            return base.ToString() + String.Format($"\nYear: {Year.ToString()}\nMake: {Make}\n" +
                 $"Model: {Model}\nColor: {Color}\n");
         }
+
+        public abstract void Ignition();
     }
 }

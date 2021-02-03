@@ -6,7 +6,7 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            Automobile auto1 = new Automobile(2017, "Honda", "Civic", "Gold");
+            //Automobile auto1 = new Automobile(2017, "Honda", "Civic", "Gold");
             //auto1.Make = "Honda";
             //auto1.Model = "Civic";
             //auto1.Year = 2017;
@@ -28,9 +28,11 @@ namespace Inheritance
             //truck1.TowingCapacity = 14000;
             //truck1.Color = "Black";
 
-            Console.WriteLine(auto1.ToString());
+            //Console.WriteLine(auto1.ToString());
             Console.WriteLine(car1.ToString());
+            car1.Ignition();
             Console.WriteLine(truck1.ToString());
+            truck1.Ignition();
         }
     }
 }
