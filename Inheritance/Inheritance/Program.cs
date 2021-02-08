@@ -13,7 +13,7 @@ namespace Inheritance
             //auto1.Color = "Gold";
 
             //New Car
-            Car car1 = new Car(2019, "Chevrolet", "Volt", "Burgundy", 11.7);
+            Car car1 = new Car(2019, "Chevrolet", "Volt", "Burgundy", 11.7, "1CDW340933");
             //car1.Make = "Chevrolet";
             //car1.Model = "Volt";
             //car1.Year = 2019;
@@ -28,11 +28,16 @@ namespace Inheritance
             //truck1.TowingCapacity = 14000;
             //truck1.Color = "Black";
 
-            //Console.WriteLine(auto1.ToString());
+            EVCar tesla = new EVCar(2020, "Tesla", "Model X", "Red", 13, "1TSC73489234923");
+
+            //-Console.WriteLine(auto1.ToString());
             Console.WriteLine(car1.ToString());
             car1.Ignition();
             Console.WriteLine(truck1.ToString());
             truck1.Ignition();
+
+            Console.WriteLine(tesla.ToString());
+            tesla.Ignition();
         }
     }
 }

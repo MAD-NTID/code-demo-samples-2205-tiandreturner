@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bptnbs\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj": {}
+    "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\Reflections\\Reflections\\Reflections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bptnbs\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\Reflections\\Reflections\\Reflections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj",
-        "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\Interfaces\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\Reflections\\Reflections\\Reflections.csproj",
+        "projectName": "Reflections",
+        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\Reflections\\Reflections\\Reflections.csproj",
         "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\Interfaces\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\Reflections\\Reflections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

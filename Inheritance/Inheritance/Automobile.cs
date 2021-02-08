@@ -4,8 +4,17 @@ using System.Text;
 
 namespace Inheritance
 {
+    //class header OR class declaration
     abstract class Automobile
     {
+        protected string vin;
+
+        //public string Vin
+        //{
+        //    get { return vin; }
+        //    set { vin = value; }
+        //}
+
         public int Year { get; set; }
         public string Make { get; set; }
         public string Model { get; set; }
@@ -17,6 +26,7 @@ namespace Inheritance
             Make = make;
             Model = model;
             Color = color;
+
         }
 
         public override string ToString()
