@@ -1,0 +1,14 @@
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\bin\Debug\netcoreapp3.1\temperatures.txt
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.exe
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.deps.json
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.runtimeconfig.json
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.dll
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.pdb
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.dll
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.pdb
+C:\Users\bptnbs\source\repos\FilesAndArrays\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.genruntimeconfig.cache
