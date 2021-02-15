@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\test.bt
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\Test.txt
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\FileDirectory.exe
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\FileDirectory.deps.json
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\FileDirectory.runtimeconfig.json
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\FileDirectory.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\FileDirectory.dll
+C:\Users\bptnbs\source\repos\IORealm\IORealm\bin\Debug\netcoreapp3.1\FileDirectory.pdb
+C:\Users\bptnbs\source\repos\IORealm\IORealm\obj\Debug\netcoreapp3.1\FileDirectory.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\IORealm\IORealm\obj\Debug\netcoreapp3.1\FileDirectory.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\IORealm\IORealm\obj\Debug\netcoreapp3.1\FileDirectory.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\IORealm\IORealm\obj\Debug\netcoreapp3.1\FileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\IORealm\IORealm\obj\Debug\netcoreapp3.1\FileDirectory.dll
+C:\Users\bptnbs\source\repos\IORealm\IORealm\obj\Debug\netcoreapp3.1\FileDirectory.pdb
+C:\Users\bptnbs\source\repos\IORealm\IORealm\obj\Debug\netcoreapp3.1\FileDirectory.genruntimeconfig.cache
