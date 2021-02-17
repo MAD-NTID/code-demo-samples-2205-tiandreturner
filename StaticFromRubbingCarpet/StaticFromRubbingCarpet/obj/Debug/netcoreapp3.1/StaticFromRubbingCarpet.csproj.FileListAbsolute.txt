@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\bin\Debug\netcoreapp3.1\StaticFromRubbingCarpet.exe
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\bin\Debug\netcoreapp3.1\StaticFromRubbingCarpet.deps.json
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\bin\Debug\netcoreapp3.1\StaticFromRubbingCarpet.runtimeconfig.json
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\bin\Debug\netcoreapp3.1\StaticFromRubbingCarpet.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\bin\Debug\netcoreapp3.1\StaticFromRubbingCarpet.dll
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\bin\Debug\netcoreapp3.1\StaticFromRubbingCarpet.pdb
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\obj\Debug\netcoreapp3.1\StaticFromRubbingCarpet.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\obj\Debug\netcoreapp3.1\StaticFromRubbingCarpet.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\obj\Debug\netcoreapp3.1\StaticFromRubbingCarpet.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\obj\Debug\netcoreapp3.1\StaticFromRubbingCarpet.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\obj\Debug\netcoreapp3.1\StaticFromRubbingCarpet.dll
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\obj\Debug\netcoreapp3.1\StaticFromRubbingCarpet.pdb
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\StaticFromRubbingCarpet\obj\Debug\netcoreapp3.1\StaticFromRubbingCarpet.genruntimeconfig.cache

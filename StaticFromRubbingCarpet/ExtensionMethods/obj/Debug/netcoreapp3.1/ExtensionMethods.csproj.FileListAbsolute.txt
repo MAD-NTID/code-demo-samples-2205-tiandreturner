@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\bptnbs\source\repos\StaticFromRubbingCarpet\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
