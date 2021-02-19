@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\bin\Debug\netcoreapp3.1\FileIODelegates.exe
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\bin\Debug\netcoreapp3.1\FileIODelegates.deps.json
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\bin\Debug\netcoreapp3.1\FileIODelegates.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\bin\Debug\netcoreapp3.1\FileIODelegates.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\bin\Debug\netcoreapp3.1\FileIODelegates.dll
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\bin\Debug\netcoreapp3.1\FileIODelegates.pdb
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\obj\Debug\netcoreapp3.1\FileIODelegates.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\obj\Debug\netcoreapp3.1\FileIODelegates.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\obj\Debug\netcoreapp3.1\FileIODelegates.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\obj\Debug\netcoreapp3.1\FileIODelegates.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\obj\Debug\netcoreapp3.1\FileIODelegates.dll
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\obj\Debug\netcoreapp3.1\FileIODelegates.pdb
+C:\Users\bptnbs\source\repos\Delegates\FileIODelegates\obj\Debug\netcoreapp3.1\FileIODelegates.genruntimeconfig.cache

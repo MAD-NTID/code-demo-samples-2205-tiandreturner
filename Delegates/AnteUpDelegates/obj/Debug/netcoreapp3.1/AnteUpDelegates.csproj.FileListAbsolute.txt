@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\bin\Debug\netcoreapp3.1\AnteUpDelegates.exe
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\bin\Debug\netcoreapp3.1\AnteUpDelegates.deps.json
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\bin\Debug\netcoreapp3.1\AnteUpDelegates.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\bin\Debug\netcoreapp3.1\AnteUpDelegates.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\bin\Debug\netcoreapp3.1\AnteUpDelegates.dll
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\bin\Debug\netcoreapp3.1\AnteUpDelegates.pdb
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\obj\Debug\netcoreapp3.1\AnteUpDelegates.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\obj\Debug\netcoreapp3.1\AnteUpDelegates.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\obj\Debug\netcoreapp3.1\AnteUpDelegates.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\obj\Debug\netcoreapp3.1\AnteUpDelegates.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\obj\Debug\netcoreapp3.1\AnteUpDelegates.dll
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\obj\Debug\netcoreapp3.1\AnteUpDelegates.pdb
+C:\Users\bptnbs\source\repos\Delegates\AnteUpDelegates\obj\Debug\netcoreapp3.1\AnteUpDelegates.genruntimeconfig.cache
