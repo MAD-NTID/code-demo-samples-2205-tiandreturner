@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\bin\Debug\netcoreapp3.1\LambdasRule.exe
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\bin\Debug\netcoreapp3.1\LambdasRule.deps.json
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\bin\Debug\netcoreapp3.1\LambdasRule.runtimeconfig.json
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\bin\Debug\netcoreapp3.1\LambdasRule.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\bin\Debug\netcoreapp3.1\LambdasRule.dll
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\bin\Debug\netcoreapp3.1\LambdasRule.pdb
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\obj\Debug\netcoreapp3.1\LambdasRule.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\obj\Debug\netcoreapp3.1\LambdasRule.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\obj\Debug\netcoreapp3.1\LambdasRule.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\obj\Debug\netcoreapp3.1\LambdasRule.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\obj\Debug\netcoreapp3.1\LambdasRule.dll
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\obj\Debug\netcoreapp3.1\LambdasRule.pdb
+C:\Users\bptnbs\source\repos\LambdasRule\LambdasRule\obj\Debug\netcoreapp3.1\LambdasRule.genruntimeconfig.cache

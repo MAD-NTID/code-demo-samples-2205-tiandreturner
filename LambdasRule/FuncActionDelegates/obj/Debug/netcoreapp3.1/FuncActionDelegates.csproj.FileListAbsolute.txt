@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\obj\Debug\netcoreapp3.1\FuncActionDelegates.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\obj\Debug\netcoreapp3.1\FuncActionDelegates.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\obj\Debug\netcoreapp3.1\FuncActionDelegates.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\obj\Debug\netcoreapp3.1\FuncActionDelegates.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\bin\Debug\netcoreapp3.1\FuncActionDelegates.exe
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\bin\Debug\netcoreapp3.1\FuncActionDelegates.deps.json
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\bin\Debug\netcoreapp3.1\FuncActionDelegates.runtimeconfig.json
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\bin\Debug\netcoreapp3.1\FuncActionDelegates.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\bin\Debug\netcoreapp3.1\FuncActionDelegates.dll
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\bin\Debug\netcoreapp3.1\FuncActionDelegates.pdb
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\obj\Debug\netcoreapp3.1\FuncActionDelegates.dll
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\obj\Debug\netcoreapp3.1\FuncActionDelegates.pdb
+C:\Users\bptnbs\source\repos\LambdasRule\FuncActionDelegates\obj\Debug\netcoreapp3.1\FuncActionDelegates.genruntimeconfig.cache
