@@ -8,25 +8,33 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+    <Page.Resources>
+        <DataTemplate x:DataType="data:Book" x:Key="BookDataTemplate">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Width="400">
+                <Image Width="150" Source="{x:Bind CoverImage}" HorizontalAlignment="Left"/>
+                <StackPanel Margin="20,5,0,0">
+                <TextBlock FontSize="18" Text="{x:Bind Title}" HorizontalAlignment="Left" />
+                <TextBlock FontSize="12" Text="{x:Bind Author}" HorizontalAlignment="Left"/>
+                <TextBlock FontSize="12" Foreground="Green" Text="{x:Bind Cost}" HorizontalAlignment="Left" />
+                </StackPanel>
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
             <RowDefinition Height="100" />
         </Grid.RowDefinitions>
-        <GridView ItemsSource="{x:Bind Books}" IsItemClickEnabled="True" ItemClick="GridView_ItemClick">
-            <GridView.ItemTemplate>
-                <DataTemplate x:DataType="data:Book">
-                    <StackPanel>
-                    <Image Width="150" Source="{x:Bind CoverImage}" />
-                    <TextBlock FontSize="18" Text="{x:Bind Title}" />
-                    <TextBlock FontSize="12" Text="{x:Bind Author}" />
-                        <TextBlock FontSize="12" Foreground="Green" Text="{x:Bind Cost}"  />
-                    </StackPanel>
-                </DataTemplate>
-            </GridView.ItemTemplate>
-        </GridView>
-        
+        <GridView ItemsSource="{x:Bind Books}" 
+                  IsItemClickEnabled="True" 
+                  ItemClick="GridView_ItemClick"
+                  ItemTemplate="{StaticResource BookDataTemplate}" />
+        <!-- Ideal for Mobile
+        <ListView ItemsSource="{x:Bind Books}" 
+                  IsItemClickEnabled="True" 
+                  ItemClick="GridView_ItemClick"
+                  ItemTemplate="{StaticResource BookDataTemplate}" />
+        -->
         <TextBlock Grid.Row="1"
                    Name="ResultTextBlock"
                    FontSize="24"

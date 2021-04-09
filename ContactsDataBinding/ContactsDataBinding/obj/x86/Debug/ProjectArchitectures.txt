@@ -1,0 +1,1 @@
+C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\ContactsDataBinding.csproj;x86
