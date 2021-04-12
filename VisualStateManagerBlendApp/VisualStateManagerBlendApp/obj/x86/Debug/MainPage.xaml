@@ -1,0 +1,77 @@
+﻿<Page
+    x:Class="VisualStateManagerBlendApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:VisualStateManagerBlendApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:ConnectionId='2' x:Name="ColorGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:ConnectionId='3' x:Name="VisualStateGroup">
+                <VisualState x:ConnectionId='4' x:Name="Phone">
+                    <VisualState.Setters>
+                        <Setter Target="MessageTextBlock.FontSize" Value="14"/>
+                        <Setter Target="ColorGrid.(Panel.Background)">
+                            <Setter.Value>
+                                <SolidColorBrush Color="Red"/>
+                            </Setter.Value>
+                        </Setter>
+                        <Setter Target="MessageTextBlock.(TextBlock.Foreground)">
+                            <Setter.Value>
+                                <SolidColorBrush Color="White"/>
+                            </Setter.Value>
+                        </Setter>
+                    </VisualState.Setters>
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="0" MinWindowHeight="0"/>
+                    </VisualState.StateTriggers>
+                </VisualState>
+                <VisualState x:ConnectionId='5' x:Name="Tablet">
+                    <VisualState.Setters>
+                        <Setter Target="MessageTextBlock.(TextBlock.FontSize)" Value="24"/>
+                        <Setter Target="ColorGrid.(Panel.Background)">
+                            <Setter.Value>
+                                <SolidColorBrush Color="#FFFFDC00"/>
+                            </Setter.Value>
+                        </Setter>
+                    </VisualState.Setters>
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="640"/>
+                    </VisualState.StateTriggers>
+                </VisualState>
+                <VisualState x:ConnectionId='6' x:Name="Desktop">
+                    <VisualState.Setters>
+                        <Setter Target="MessageTextBlock.(TextBlock.FontSize)" Value="48"/>
+                        <Setter Target="ColorGrid.(Panel.Background)">
+                            <Setter.Value>
+                                <SolidColorBrush Color="Blue"/>
+                            </Setter.Value>
+                        </Setter>
+                        <Setter Target="MessageTextBlock.(FrameworkElement.FocusVisualPrimaryBrush)">
+                            <Setter.Value>
+                                <SolidColorBrush Color="White"/>
+                            </Setter.Value>
+                        </Setter>
+                        <Setter Target="MessageTextBlock.(TextBlock.Foreground)">
+                            <Setter.Value>
+                                <SolidColorBrush Color="White"/>
+                            </Setter.Value>
+                        </Setter>
+                    </VisualState.Setters>
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="1024"/>
+                    </VisualState.StateTriggers>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <StackPanel>
+        <TextBlock x:ConnectionId='7' x:Name="MessageTextBlock" Text="Hello VisualStateManager!" FocusVisualPrimaryBrush="Black" Foreground="Black" Visibility="Collapsed"/>
+        <Button x:ConnectionId='8' x:Name="ClickThisButton" Content="Click This" HorizontalAlignment="Left" Margin="20,0,0,0"                               IsEnabled="False"/>
+            <TextBox x:ConnectionId='9' x:Name="TypeInTextBox" Width="500" PlaceholderText="Type something in here..."                                         />
+        </StackPanel>
+    </Grid>
+</Page>
+

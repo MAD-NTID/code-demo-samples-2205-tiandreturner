@@ -1,0 +1,1 @@
+C:\Users\bptnbs\source\repos\VisualStateManagerApp\VisualStateManagerApp\VisualStateManagerApp.csproj;x86

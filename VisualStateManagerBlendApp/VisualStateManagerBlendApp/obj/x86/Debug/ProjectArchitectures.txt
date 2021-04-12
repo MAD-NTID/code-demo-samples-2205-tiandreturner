@@ -1,0 +1,1 @@
+C:\Users\bptnbs\source\repos\VisualStateManagerBlendApp\VisualStateManagerBlendApp\VisualStateManagerBlendApp.csproj;x86
