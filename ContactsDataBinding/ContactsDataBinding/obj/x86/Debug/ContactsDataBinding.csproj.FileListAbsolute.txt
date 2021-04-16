@@ -42,3 +42,9 @@ C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Deb
 C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424959200000000.json
+C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\ContactsDataBinding.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\ContactTemplate.g.i.cs
+C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\ContactTemplate.g.cs
+C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\ContactTemplate.xaml
+C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\obj\x86\Debug\ContactTemplate.xbf
+C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\ContactTemplate.xbf

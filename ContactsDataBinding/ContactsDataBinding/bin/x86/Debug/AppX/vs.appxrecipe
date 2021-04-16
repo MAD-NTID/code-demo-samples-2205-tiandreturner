@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-04-09T16:08:11.726</Modified>
+      <Modified>2021-04-16T15:11:11.534</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\ContactsDataBinding.exe">
       <PackagePath>entrypoint\ContactsDataBinding.exe</PackagePath>
-      <Modified>2021-04-09T16:08:11.209</Modified>
+      <Modified>2021-04-16T15:11:10.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.11\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -110,15 +110,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\ContactsDataBinding.xr.xml">
       <PackagePath>ContactsDataBinding.xr.xml</PackagePath>
-      <Modified>2021-04-09T16:08:11.110</Modified>
+      <Modified>2021-04-16T15:11:10.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-04-09T16:08:11.125</Modified>
+      <Modified>2021-04-16T15:10:45.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\ContactTemplate.xbf">
+      <PackagePath>ContactTemplate.xbf</PackagePath>
+      <Modified>2021-04-16T15:11:10.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-04-09T16:08:11.125</Modified>
+      <Modified>2021-04-16T15:10:45.560</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -126,11 +130,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-04-09T16:01:23.710</Modified>
+      <Modified>2021-04-16T14:54:16.698</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\ContactsDataBinding\ContactsDataBinding\bin\x86\Debug\Core\ContactsDataBinding.exe">
       <PackagePath>ContactsDataBinding.exe</PackagePath>
-      <Modified>2021-04-09T16:08:11.721</Modified>
+      <Modified>2021-04-16T15:11:11.529</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

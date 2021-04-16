@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContactsDataBinding.Models
 {
-    class Contact
+    public class Contact
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

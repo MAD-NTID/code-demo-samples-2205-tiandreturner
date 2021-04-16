@@ -48,7 +48,7 @@ namespace ContactsDataBinding
             //DUH!!!
             var avatarPath = ((Icon)AvatarComboBox.SelectedValue).IconPath;
             Contacts.Add(new Contact { FirstName = FirstNameTextBox.Text, 
-                LastName = LastNameTextBox.Text, 
+                LastName = String.Format($"{LastNameTextBox.Text}, "), 
                 AvatarPath = avatarPath });
 
             FirstNameTextBox.Text = "";
