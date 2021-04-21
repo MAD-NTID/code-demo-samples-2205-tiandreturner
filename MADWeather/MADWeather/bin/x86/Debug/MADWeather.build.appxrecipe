@@ -49,8 +49,56 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\01n.png">
+      <PackagePath>Assets\01n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\02d.png">
+      <PackagePath>Assets\02d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\02n.png">
+      <PackagePath>Assets\02n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\03d.png">
+      <PackagePath>Assets\03d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\03n.png">
+      <PackagePath>Assets\03n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\04d.png">
+      <PackagePath>Assets\04d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\04n.png">
+      <PackagePath>Assets\04n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\09d.png">
+      <PackagePath>Assets\09d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\09n.png">
+      <PackagePath>Assets\09n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\10d.png">
+      <PackagePath>Assets\10d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\10n.png">
+      <PackagePath>Assets\10n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\11d.png">
+      <PackagePath>Assets\11d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\11n.png">
+      <PackagePath>Assets\11n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\13d.png">
+      <PackagePath>Assets\13d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\13n.png">
+      <PackagePath>Assets\13n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\50d.png">
+      <PackagePath>Assets\50d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\50n.png">
+      <PackagePath>Assets\50n.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -78,6 +126,9 @@
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\MADWeather.xr.xml">
       <PackagePath>MADWeather.xr.xml</PackagePath>

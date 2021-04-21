@@ -10,7 +10,13 @@
 
     <StackPanel>
         <Button x:ConnectionId='2' x:Name="GetWeatherButton" Content="Get Weather Data" Margin="50"                               />
-        <TextBlock x:ConnectionId='3' x:Name="WeatherTextBlock" Margin="0,20,0,0"/>
+        <TextBlock x:ConnectionId='3' x:Name="CityTextBlock" HorizontalAlignment="Center" FontSize="20" FontFamily="Segoe UI Light" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="Auto">
+            <Image x:ConnectionId='5' Height="128" Width="128" x:Name="WeatherImage"/>
+            <TextBlock x:ConnectionId='6' x:Name="WeatherTextBlock" Margin="0,20,0,0" FontSize="84" FontFamily="Segoe UI Light" VerticalAlignment="Center"/>
+        </StackPanel>
+        <TextBlock x:ConnectionId='4' x:Name="WeatherDescriptionTextBlock" FontSize="24" HorizontalAlignment="Center" />
+        
     </StackPanel>
 </Page>
 

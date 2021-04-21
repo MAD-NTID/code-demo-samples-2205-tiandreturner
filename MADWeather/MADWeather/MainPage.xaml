@@ -10,6 +10,12 @@
 
     <StackPanel>
         <Button x:Name="GetWeatherButton" Content="Get Weather Data" Margin="50" Click="GetWeatherButton_Click"/>
-        <TextBlock x:Name="WeatherTextBlock" Margin="0,20,0,0"/>
+        <TextBlock x:Name="CityTextBlock" HorizontalAlignment="Center" FontSize="20" FontFamily="Segoe UI Light" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="Auto">
+            <Image Height="128" Width="128" x:Name="WeatherImage"/>
+            <TextBlock x:Name="WeatherTextBlock" Margin="0,20,0,0" FontSize="84" FontFamily="Segoe UI Light" VerticalAlignment="Center"/>
+        </StackPanel>
+        <TextBlock x:Name="WeatherDescriptionTextBlock" FontSize="24" HorizontalAlignment="Center" />
+        
     </StackPanel>
 </Page>

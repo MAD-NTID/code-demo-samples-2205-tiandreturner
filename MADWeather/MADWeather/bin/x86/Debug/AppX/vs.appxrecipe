@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-04-19T16:26:41.591</Modified>
+      <Modified>2021-04-21T15:50:05.797</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\MADWeather.exe">
       <PackagePath>entrypoint\MADWeather.exe</PackagePath>
-      <Modified>2021-04-19T16:26:41.036</Modified>
+      <Modified>2021-04-21T15:50:05.126</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
       <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
@@ -66,9 +66,73 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T08:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2021-04-19T14:23:11.456</Modified>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\01n.png">
+      <PackagePath>Assets\01n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\02d.png">
+      <PackagePath>Assets\02d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\02n.png">
+      <PackagePath>Assets\02n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\03d.png">
+      <PackagePath>Assets\03d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\03n.png">
+      <PackagePath>Assets\03n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\04d.png">
+      <PackagePath>Assets\04d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\04n.png">
+      <PackagePath>Assets\04n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\09d.png">
+      <PackagePath>Assets\09d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\09n.png">
+      <PackagePath>Assets\09n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\10d.png">
+      <PackagePath>Assets\10d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\10n.png">
+      <PackagePath>Assets\10n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\11d.png">
+      <PackagePath>Assets\11d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\11n.png">
+      <PackagePath>Assets\11n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\13d.png">
+      <PackagePath>Assets\13d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\13n.png">
+      <PackagePath>Assets\13n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\50d.png">
+      <PackagePath>Assets\50d.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\50n.png">
+      <PackagePath>Assets\50n.png</PackagePath>
+      <Modified>2021-04-21T14:41:54.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -104,17 +168,21 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-04-01T03:41:54.363</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2021-04-19T14:23:11.456</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\MADWeather.xr.xml">
       <PackagePath>MADWeather.xr.xml</PackagePath>
-      <Modified>2021-04-19T15:24:17.361</Modified>
+      <Modified>2021-04-21T15:50:05.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-04-19T16:25:37.269</Modified>
+      <Modified>2021-04-21T15:37:56.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-04-19T16:25:37.269</Modified>
+      <Modified>2021-04-21T15:50:05.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -122,11 +190,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-04-19T16:20:43.386</Modified>
+      <Modified>2021-04-21T15:50:05.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\Core\MADWeather.exe">
       <PackagePath>MADWeather.exe</PackagePath>
-      <Modified>2021-04-19T16:26:41.585</Modified>
+      <Modified>2021-04-21T15:50:05.792</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

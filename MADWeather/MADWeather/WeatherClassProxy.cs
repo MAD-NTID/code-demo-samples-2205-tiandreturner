@@ -16,7 +16,7 @@ namespace MADWeather
     class WeatherClassProxy
     {
         //USE YOUR KEY HERE
-        private static string apiKey = "PUT YOUR KEY HERE";
+        private static string apiKey = "dd65f484e41256eca0b5e40c8d79af1a";
 
         public async static Task<Root> GetWeather(double lat, double lon)
         {
