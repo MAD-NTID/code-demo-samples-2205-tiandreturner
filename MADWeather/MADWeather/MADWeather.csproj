@@ -17,7 +17,9 @@
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
-    <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
+    <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
+    <PackageCertificateThumbprint>8CAD8C3A31E30FF5B231900DD89171B9A43D8387</PackageCertificateThumbprint>
+    <PackageCertificateKeyFile>MADWeather_TemporaryKey.pfx</PackageCertificateKeyFile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <DebugSymbols>true</DebugSymbols>
@@ -119,6 +121,13 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CurrentWeather.xaml.cs">
+      <DependentUpon>CurrentWeather.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Forecast.xaml.cs">
+      <DependentUpon>Forecast.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LocationManager.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -131,7 +140,7 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Assets\01d.png" />
+    <Content Include="Assets\01d.png" />
     <Content Include="Assets\01n.png" />
     <Content Include="Assets\02d.png" />
     <Content Include="Assets\02n.png" />
@@ -163,6 +172,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="CurrentWeather.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Forecast.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -181,6 +198,9 @@
     <PackageReference Include="System.Text.Json">
       <Version>5.0.2</Version>
     </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MADWeather_TemporaryKey.pfx" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

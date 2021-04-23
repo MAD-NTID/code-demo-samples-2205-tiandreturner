@@ -19308,11 +19308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MADWeather\\MADWeather\\MADWeather.csproj",
+      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\MADWeather\\MADWeather\\MADWeather.csproj",
       "projectName": "MADWeather",
-      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MADWeather\\MADWeather\\MADWeather.csproj",
+      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\MADWeather\\MADWeather\\MADWeather.csproj",
       "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MADWeather\\MADWeather\\obj\\",
+      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\MADWeather\\MADWeather\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

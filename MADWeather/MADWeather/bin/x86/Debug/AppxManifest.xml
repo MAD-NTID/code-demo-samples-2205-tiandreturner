@@ -11,7 +11,7 @@
   <mp:PhoneIdentity PhoneProductId="abcca42e-a218-481b-ad1d-02024faf0195" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>MADWeather</DisplayName>
-    <PublisherDisplayName>bptnbs</PublisherDisplayName>
+    <PublisherDisplayName>UWPAdmin</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -32,6 +32,7 @@
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
   </Capabilities>
   <Extensions>
     <Extension Category="windows.activatableClass.inProcessServer">

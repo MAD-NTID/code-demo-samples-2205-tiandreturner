@@ -28,17 +28,33 @@ namespace MADWeather
             this.InitializeComponent();
         }
 
-        private async void GetWeatherButton_Click(object sender, RoutedEventArgs e)
+        private void HamburgerButton_Click(object sender, RoutedEventArgs e)
         {
-            var rootData = await WeatherClassProxy.GetWeather(43.161663, -77.62053);
+            WeatherSplitView.IsPaneOpen = !WeatherSplitView.IsPaneOpen;
+        }
 
-            if (rootData != null)
+        private void BackButton_Click(object sender, RoutedEventArgs e)
+        {
+            if(MyFrame.CanGoBack)
             {
-                CityTextBlock.Text = rootData.Name.ToString();
-                WeatherTextBlock.Text = Convert.ToInt16(rootData.Main.Temp).ToString() + "°";
-                WeatherDescriptionTextBlock.Text = rootData.Weather[0].Main.ToString();
-               // WeatherImage.Source = new BitmapImage(new Uri("ms-appx:///Assets/13d.png", UriKind.RelativeOrAbsolute));
-                WeatherImage.Source = new BitmapImage(new Uri("ms-appx:///Assets/" + rootData.Weather[0].Icon + ".png", UriKind.RelativeOrAbsolute));
+                MyFrame.GoBack();
+                CurrentWeather.IsSelected = true;
+            }
+        }
+
+        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if(CurrentWeather.IsSelected)
+            {
+                BackButton.Visibility = Visibility.Collapsed;
+                MyFrame.Navigate(typeof(CurrentWeather));
+                TitleTextBlock.Text = "Current Weather";
+            }
+            if(Forecast.IsSelected)
+            {
+                BackButton.Visibility = Visibility.Visible;
+                MyFrame.Navigate(typeof(Forecast));
+                TitleTextBlock.Text = "Forecast";
             }
         }
     }

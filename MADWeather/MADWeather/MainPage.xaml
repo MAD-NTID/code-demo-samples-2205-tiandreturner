@@ -7,15 +7,71 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+    
+    <RelativePanel>
+        <Button x:Name="HamburgerButton"
+                RelativePanel.AlignLeftWithPanel="True"
+                FontFamily="Segoe MDL2 Assets"
+                FontSize="36"
+                Content="&#xE700;"
+                Click="HamburgerButton_Click" />
 
-    <StackPanel>
-        <Button x:Name="GetWeatherButton" Content="Get Weather Data" Margin="50" Click="GetWeatherButton_Click"/>
-        <TextBlock x:Name="CityTextBlock" HorizontalAlignment="Center" FontSize="20" FontFamily="Segoe UI Light" />
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="Auto">
-            <Image Height="128" Width="128" x:Name="WeatherImage"/>
-            <TextBlock x:Name="WeatherTextBlock" Margin="0,20,0,0" FontSize="84" FontFamily="Segoe UI Light" VerticalAlignment="Center"/>
-        </StackPanel>
-        <TextBlock x:Name="WeatherDescriptionTextBlock" FontSize="24" HorizontalAlignment="Center" />
-        
-    </StackPanel>
+        <Button x:Name="BackButton"
+                RelativePanel.RightOf="HamburgerButton"
+                FontFamily="Segoe MDL2 Assets"
+                FontSize="36"
+                Content="&#xE0C4;"
+                Click="BackButton_Click" />
+
+        <TextBlock x:Name="TitleTextBlock"
+                RelativePanel.RightOf="BackButton"
+                FontSize="36"
+                FontWeight="Bold"
+                Margin="20,5,0,0" />
+
+        <Button x:Name="SearchButton"
+                RelativePanel.AlignRightWithPanel="True"
+                FontFamily="Segoe MDL2 Assets"
+                FontSize="24"
+                Padding="10"
+                Content="&#xE1A3;" />
+
+        <TextBox x:Name="SearchTextBox"
+                 RelativePanel.LeftOf="SearchButton"
+                 Height="48"
+                 Width="200"
+                 FontSize="24"
+                 PlaceholderText="Search" />
+    </RelativePanel>
+        <SplitView Grid.Row="1"
+               Name="WeatherSplitView"
+               DisplayMode="CompactOverlay"
+               OpenPaneLength="300"
+               CompactPaneLength="56">
+            <SplitView.Pane>
+                <ListBox SelectionMode="Single" SelectionChanged="ListBox_SelectionChanged">
+                    <ListBoxItem x:Name="CurrentWeather">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE128;" />
+                            <TextBlock FontSize="24" Margin="20,0,0,0" Text="Current Weather" />
+                        </StackPanel>
+                    </ListBoxItem>
+                    <ListBoxItem x:Name="Forecast">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE706;" />
+                            <TextBlock FontSize="24" Margin="20,0,0,0" Text="Forecast" />
+                        </StackPanel>
+                    </ListBoxItem>
+                </ListBox>
+            </SplitView.Pane>
+            <SplitView.Content>
+                <Frame x:Name="MyFrame"></Frame>
+            </SplitView.Content>
+        </SplitView>
+    </Grid>
 </Page>

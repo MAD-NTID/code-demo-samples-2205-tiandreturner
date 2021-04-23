@@ -1,1 +1,1 @@
-C:\Users\bptnbs\source\repos\MADWeather\MADWeather\MADWeather.csproj;x86
+C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\MADWeather.csproj;x86

@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>abcca42e-a218-481b-ad1d-02024faf0195</PackageIdentityName>
     <PackageIdentityPublisher>CN=bptnbs</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\bptnbs\source\repos\MADWeather\MADWeather\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\MADWeather.exe">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\MADWeather.exe">
       <PackagePath>entrypoint\MADWeather.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\bptnbs\.nuget\packages\microsoft.bcl.asyncinterfaces\5.0.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
@@ -49,103 +49,112 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\01n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\01d.png">
+      <PackagePath>Assets\01d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\01n.png">
       <PackagePath>Assets\01n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\02d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\02d.png">
       <PackagePath>Assets\02d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\02n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\02n.png">
       <PackagePath>Assets\02n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\03d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\03d.png">
       <PackagePath>Assets\03d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\03n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\03n.png">
       <PackagePath>Assets\03n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\04d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\04d.png">
       <PackagePath>Assets\04d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\04n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\04n.png">
       <PackagePath>Assets\04n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\09d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\09d.png">
       <PackagePath>Assets\09d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\09n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\09n.png">
       <PackagePath>Assets\09n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\10d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\10d.png">
       <PackagePath>Assets\10d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\10n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\10n.png">
       <PackagePath>Assets\10n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\11d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\11d.png">
       <PackagePath>Assets\11d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\11n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\11n.png">
       <PackagePath>Assets\11n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\13d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\13d.png">
       <PackagePath>Assets\13d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\13n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\13n.png">
       <PackagePath>Assets\13n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\50d.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\50d.png">
       <PackagePath>Assets\50d.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\50n.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\50n.png">
       <PackagePath>Assets\50n.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\MADWeather.xr.xml">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\MADWeather.xr.xml">
       <PackagePath>MADWeather.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\CurrentWeather.xbf">
+      <PackagePath>CurrentWeather.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\Forecast.xbf">
+      <PackagePath>Forecast.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\MADWeather\MADWeather\bin\x86\Debug\Core\MADWeather.exe">
+    <AppxPackagedFile Include="C:\Users\bptnbs\source\repos\code-demo-samples-2205-tiandreturner\MADWeather\MADWeather\bin\x86\Debug\Core\MADWeather.exe">
       <PackagePath>MADWeather.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

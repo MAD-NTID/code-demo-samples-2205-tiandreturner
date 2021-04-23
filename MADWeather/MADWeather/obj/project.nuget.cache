@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q/Z72dSLOxo7HfhLuCRKyG6sTxDq2Z3N3yglXpLQd8EHKvTlbVfRv9O0f5ln03rPaAr8cLJdL/SiOEnQJD24Uw==",
+  "dgSpecHash": "cgcFncuxzuB+5BOkCt5GCS7qKiZtc8O3pcth+pWxlMPG15eP32gpSLQx4ODm3sAdMJYQJWGd73XhPqkpULqAIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bptnbs\\source\\repos\\MADWeather\\MADWeather\\MADWeather.csproj",
+  "projectFilePath": "C:\\Users\\bptnbs\\source\\repos\\code-demo-samples-2205-tiandreturner\\MADWeather\\MADWeather\\MADWeather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bptnbs\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.9-rel-29512-01\\microsoft.net.native.compiler.2.2.9-rel-29512-01.nupkg.sha512",
