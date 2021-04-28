@@ -1,0 +1,16 @@
+C:\Users\bptnbs\source\repos\ThreadsII\Join\bin\Debug\net5.0\Join.exe
+C:\Users\bptnbs\source\repos\ThreadsII\Join\bin\Debug\net5.0\Join.deps.json
+C:\Users\bptnbs\source\repos\ThreadsII\Join\bin\Debug\net5.0\Join.runtimeconfig.json
+C:\Users\bptnbs\source\repos\ThreadsII\Join\bin\Debug\net5.0\Join.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\ThreadsII\Join\bin\Debug\net5.0\Join.dll
+C:\Users\bptnbs\source\repos\ThreadsII\Join\bin\Debug\net5.0\ref\Join.dll
+C:\Users\bptnbs\source\repos\ThreadsII\Join\bin\Debug\net5.0\Join.pdb
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.dll
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\ref\Join.dll
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.pdb
+C:\Users\bptnbs\source\repos\ThreadsII\Join\obj\Debug\net5.0\Join.genruntimeconfig.cache

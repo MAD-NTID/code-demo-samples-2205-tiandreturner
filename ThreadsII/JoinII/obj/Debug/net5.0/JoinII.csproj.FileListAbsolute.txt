@@ -1,0 +1,15 @@
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\bin\Debug\net5.0\JoinII.exe
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\bin\Debug\net5.0\JoinII.deps.json
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\bin\Debug\net5.0\JoinII.runtimeconfig.json
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\bin\Debug\net5.0\JoinII.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\bin\Debug\net5.0\JoinII.dll
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\bin\Debug\net5.0\ref\JoinII.dll
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\bin\Debug\net5.0\JoinII.pdb
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\JoinII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\JoinII.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\JoinII.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\JoinII.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\JoinII.dll
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\ref\JoinII.dll
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\JoinII.pdb
+C:\Users\bptnbs\source\repos\ThreadsII\JoinII\obj\Debug\net5.0\JoinII.genruntimeconfig.cache
